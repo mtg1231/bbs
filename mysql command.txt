@@ -1,0 +1,6 @@
+create database bbsdb;
+CREATE TABLE 'Post' (
+'date' timestamp DEFAULT CURRENT_TIMESTAMP
+'name' varchar(20) NOT NULL,
+'honbun' varchar(80) NOT NULL,
+);
