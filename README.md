@@ -5,8 +5,14 @@ mysql command MySQLの入力内容
 
 
 for Ubuntu
+
+
 pip インストール
+
+
 $ sudo apt install python3-pip
  
 MySQL client
+
+
 $ sudo apt-get install python-pip python-dev libmysqlclient-dev
